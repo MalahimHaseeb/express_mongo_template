@@ -16,7 +16,7 @@ This is a template by using it you can create express app with mongoose and rout
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your `.env` file
 
 `DB`
 
@@ -31,7 +31,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Installation
 
-Install my-project with npm
+Install my-project with `npm`
 
 ```bash
   npm i
