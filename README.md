@@ -64,7 +64,7 @@ Install my-project with npm
 ```
 
 
-#### add(num1, num2)
+
 
 Takes the title and author and saves it on database
 
