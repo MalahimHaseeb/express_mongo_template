@@ -14,6 +14,13 @@ This is a template by using it you can create express app with mongoose and rout
 | Routes/ | Auth.route.js |
 
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB`
+
+`PORT`
 
 
 
